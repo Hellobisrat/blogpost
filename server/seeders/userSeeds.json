@@ -1,0 +1,51 @@
+[
+    {
+        "username": "JaneTheWanderer",
+        "email": "jane.doe@example.com",
+        "password": "password101"
+    },
+    {
+        "username": "John Doe",
+        "email": "john.doe@example.com",
+        "password": "password102"
+    },
+    {
+        "username": "jamie",
+        "email": "jamieBrown27@example.com",
+        "password": "password103"
+    },
+    {
+        "username": "James",
+        "email": "jamesdsmith@example.com",
+        "password": "password104"
+    },
+    {
+        "username": "greenerPastures",
+        "email": "lucasGreen20@example.com",
+        "password": "password105"
+    },    {
+        "username": "ashleyLovesLanguage",
+        "email": "ashelyUser@example.com",
+        "password": "password106"
+    },    {
+        "username": "Lisa Conner",
+        "email": "lisa.conner@example.com",
+        "password": "password107"
+    },    {
+        "username": "CultureCounty",
+        "email": "CultureCounty@example.com",
+        "password": "password108"
+    },
+    {
+        "username": "callMeAlex",
+        "email": "alexHill@example.com",
+        "password": "password109"
+    },
+    {
+        "username": "TaylorTravels",
+        "email": "taylor@example.com",
+        "password": "password110"
+    } 
+]
+        
+
